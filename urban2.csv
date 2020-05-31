@@ -1,4 +1,4 @@
-"","index","year","rank_order","countrycode","country_or_area","city_code","urban_agglomeration","note","population_millions","geometry"
+"","index","year","rank_order","countrycode","country_or_area","city_code","urban_agglomeration","note","population_millions","geometry","lon"
 "1",1,1950,6,32,"Argentina",20058,"Buenos Aires",1,5.16614,c(-58.400368, -34.605083)
 "2",2,1955,5,32,"Argentina",20058,"Buenos Aires",1,5.910271,c(-58.400368, -34.605083)
 "3",3,1960,6,32,"Argentina",20058,"Buenos Aires",1,6.761837,c(-58.400368, -34.605083)
